@@ -157,7 +157,8 @@ padding-bottom: 25px;}
     width: 602px;
     margin-top: -384px;
     float: left;
-    margin-left: -691px;
+/*     margin-left: -691px; */
+        margin-left: -911px;
 }
 .form1, .form2{
     font-size: large;
